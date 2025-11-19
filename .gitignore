@@ -1,0 +1,42 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.py[oc]
+*.pyo
+*.egg-info/
+build/
+dist/
+wheels/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage/
+
+# Virtual environments & tool metadata
+.venv/
+.env
+.envrc
+.python-version
+.uv/
+
+# Editors / OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Experiment & log outputs
+experiments/
+runs/
+logs/
+*.log
+
+# Dataset artifacts (downloaded or preprocessed)
+data/
+
+# Local config/cache
+config/

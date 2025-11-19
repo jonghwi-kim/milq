@@ -1,0 +1,3 @@
+[submodule "src/ColBERT-X"]
+	path = src/ColBERT-X
+	url = https://github.com/hltcoe/ColBERT-X.git
