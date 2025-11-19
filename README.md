@@ -48,6 +48,7 @@ git clone https://github.com/jonghwi-kim/milq.git
 cd milq
 
 # Install dependencies
+uv venv --python 3.10
 uv sync
 ```
 
